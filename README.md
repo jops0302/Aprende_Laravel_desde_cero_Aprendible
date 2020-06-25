@@ -1,7 +1,7 @@
 # CRUD_crear_proyectos
 
 ### Descripción
-Proyecto para poder crear proyectos,editarlos, eliminarlos y actualizarlos. 
+crear proyectos,editarlos, eliminarlos y actualizarlos. 
 tambien esta la funcion de poder iniciar sesion.
 
 ### Imagenes
