@@ -26,6 +26,6 @@ tambien esta la funcion de poder iniciar sesion.
 
 ![editar](https://user-images.githubusercontent.com/54915231/85790879-97033000-b6f6-11ea-9559-b9c095300223.png)
 
-####Contacto
+#### Contacto
 
 ![contacto](https://user-images.githubusercontent.com/54915231/85790874-966a9980-b6f6-11ea-9128-1a089f2c754f.png)
