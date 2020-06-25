@@ -6,7 +6,7 @@ tambien esta la funcion de poder iniciar sesion.
 
 ### Imagenes
 
-####Inicio
+#### Inicio
 
 ![Inicio](https://user-images.githubusercontent.com/54915231/85790868-95d20300-b6f6-11ea-82b1-a07b23d351f5.png)
 
